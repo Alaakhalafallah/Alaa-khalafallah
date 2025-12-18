@@ -22,10 +22,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Alaa-khalafallah&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alaa-khalafallah&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa-khalafallah&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alaa-khalafallah&theme=dark&no-frame=true&margin-w=4)
