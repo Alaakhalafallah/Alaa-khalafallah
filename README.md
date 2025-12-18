@@ -6,9 +6,6 @@
 👋 Hi, I’m Alaa Khalafallah  
 🔭 Working on CTF challenges and small cybersecurity labs  
 🌱 Learning eJPT, penetration testing, and Linux tools  
-👯 Looking to collaborate on open-source security projects  
-🤝 Looking for help with advanced penetration testing  
-💬 Ask me about Cybersecurity basics, CTFs, Python, C++, Java  
 ⚡ Fun fact: I enjoy solving puzzles and exploring safe exploits
 
 ## 🌐 Socials
@@ -22,9 +19,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alaa-khalafallah&theme=dark&no-frame=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
